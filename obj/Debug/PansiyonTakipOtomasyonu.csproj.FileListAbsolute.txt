@@ -1,0 +1,15 @@
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\bin\Debug\PansiyonTakipOtomasyonu.exe.config
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\bin\Debug\PansiyonTakipOtomasyonu.exe
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\bin\Debug\PansiyonTakipOtomasyonu.pdb
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Form1.resources
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Properties.Resources.resources
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.exe
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.pdb
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Form2.resources
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Form3.resources
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Form4.resources
+C:\Users\emirh\source\repos\PansiyonTakipOtomasyonu\PansiyonTakipOtomasyonu\obj\Debug\PansiyonTakipOtomasyonu.Form5.resources
